@@ -30,3 +30,8 @@ func sortArray(a []int) {
 
 	//time.Sleep(1 * time.Second)
 }
+
+//Excercises :
+// 1. use basic sort algorithm
+// 2. Try with larger array ( size 20)
+// 3. Try with Generating 1000 random numbers into an array and sort
